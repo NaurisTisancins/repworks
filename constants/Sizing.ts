@@ -1,0 +1,52 @@
+export default {
+    spacing: {
+        xs: 4,
+        sm: 8,
+        md: 16,
+        lg: 24,
+        xl: 32,
+        xxl: 40,
+        xxxl: 48,
+        xxxxl: 56,
+    },
+    borderRadius: {
+        xs: 4,
+        sm: 8,
+        md: 16,
+        lg: 24,
+        xl: 32,
+        xxl: 40,
+    },
+    fontSize: {
+        xs: 12,
+        sm: 14,
+        md: 16,
+        lg: 20,
+        xl: 24,
+        xxl: 32,
+        xxxl: 40,
+    },
+    fontWeight: {
+        xs: '200',
+        sm: '400',
+        md: '600',
+        lg: '800',
+    },
+
+    lineHeight: {
+        xs: 12,
+        sm: 14,
+        md: 16,
+        lg: 24,
+        xl: 32,
+        xxl: 40,
+    },
+    iconSize: {
+        xs: 12,
+        sm: 14,
+        md: 16,
+        lg: 24,
+        xl: 32,
+        xxl: 40,
+    },
+};
